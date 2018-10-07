@@ -4,6 +4,7 @@ Deep Learning with Tensorflow:
 
  
         GPU testing for Tensorflow with Cuda 
+        Script for adding quick access to Anaconda prompt
 
         Fully Conneted Neural Network (FC)
         Convolutional Neural Network (CNN)
