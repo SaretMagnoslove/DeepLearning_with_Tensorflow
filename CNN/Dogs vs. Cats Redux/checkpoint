@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:\\Courses\\youtube\\DeepLearning_with_Tensorflow\\CNN\\Dogs vs. Cats Redux\\dogsvscats-0.001-6conv-basic.model"
+all_model_checkpoint_paths: "E:\\Courses\\youtube\\DeepLearning_with_Tensorflow\\CNN\\Dogs vs. Cats Redux\\dogsvscats-0.001-6conv-basic.model"
